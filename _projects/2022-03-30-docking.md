@@ -1,0 +1,24 @@
+---
+title: 'Docking'
+subtitle: 'Animation of SyrB1-SyrB2 docking'
+icon: 'fas fa-play fa-3x'
+date: 2022-03-30 00:00:00
+description: Blender Render
+featured_image: '/images/projects/blender/featured/docking.jpg'
+published: true
+
+---
+
+<video controls loop autoplay style="width: 100%; height: auto;">
+    <source src="/images/projects/blender/full_size/docking.mp4" type="video/mp4">
+</video>
+
+---
+
+### Project Information
+
+**Software:** Blender v2.91.0
+
+**Type:** Animation
+
+**Render Engine:** Cycles
