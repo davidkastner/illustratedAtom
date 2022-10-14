@@ -2,7 +2,7 @@
 title: 'Abstraction'
 subtitle: 'Animation of the Hydrogen Atom Abstraction'
 icon: 'fas fa-play fa-3x'
-date: 2022-10-14 00:00:00
+date: 2022-10-13 00:00:00
 description: Blender Animation
 featured_image: '/images/projects/blender/featured/abstraction.jpg'
 published: true
