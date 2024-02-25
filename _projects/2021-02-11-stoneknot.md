@@ -4,7 +4,7 @@ subtitle: 'Keltic Stone Knot in Motion'
 icon: 'fas fa-play fa-3x'
 date: 2021-02-11 00:00:00
 description: Blender Render
-featured_image: '/images/projects/blender/featured/stoneknot.jpg'
+featured_image: '/images/projects/blender/featured/stoneknot.webp'
 published: true
 
 ---

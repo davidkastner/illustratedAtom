@@ -4,7 +4,7 @@ subtitle: 'Organic Texture and Movement Study'
 icon: 'fas fa-play fa-3x'
 date: 2020-06-06 00:00:00
 description: Blender Render
-featured_image: '/images/projects/blender/featured/facehugger.jpg'
+featured_image: '/images/projects/blender/featured/facehugger.webp'
 published: true
 ---
 

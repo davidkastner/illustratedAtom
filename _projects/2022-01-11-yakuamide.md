@@ -3,7 +3,7 @@ title: 'Digital Synthesis'
 subtitle: 'Interdiscplinary synthesis project'
 date: 2021-07-01 01:00:00
 description: Blender Render
-featured_image: '/images/projects/blender/featured/yakuamide.jpg'
+featured_image: '/images/projects/blender/featured/yakuamide.webp'
 published: true
 ---
 
