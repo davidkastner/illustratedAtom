@@ -12,9 +12,7 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-#    - title: 'Blog'
-#      url: '/blog/'
-    - title: 'About'
+    - title: 'About Me'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
@@ -32,7 +30,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: 'https://twitter.com/davidwkastner'
-  instagram_url: 'https://www.instagram.com/illustratedatom/'
+  instagram_url: 'https://www.instagram.com/davidwkastner/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
