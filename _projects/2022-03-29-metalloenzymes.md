@@ -3,7 +3,7 @@ title: 'Metalloenzymes'
 subtitle: 'Diversity among metalloenzymes'
 date: 2022-03-29 01:00:00
 description: Blender Render
-featured_image: '/images/projects/blender/featured/metalloenzymes.webp'
+featured_image: '/images/projects/featured/metalloenzymes.webp'
 published: true
 ---
 
