@@ -7,7 +7,7 @@ featured_image: '/images/projects/blender/featured/darktrails.webp'
 published: true
 ---
 
-![](/images/projects/blender/full_size/darktrails.png)
+![](/images/projects/full_size/darktrails.webp)
 
 ---
 

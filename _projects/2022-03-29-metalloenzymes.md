@@ -7,7 +7,7 @@ featured_image: '/images/projects/blender/featured/metalloenzymes.webp'
 published: true
 ---
 
-![](/images/projects/blender/full_size/metalloenzymes.png)
+![](/images/projects/full_size/metalloenzymes.webp)
 
 ---
 

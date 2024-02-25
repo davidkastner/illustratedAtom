@@ -7,7 +7,7 @@ featured_image: '/images/projects/blender/featured/yakuamide.webp'
 published: true
 ---
 
-![](/images/projects/blender/full_size/yakuamide.png)
+![](/images/projects/full_size/yakuamide.webp)
 
 ---
 

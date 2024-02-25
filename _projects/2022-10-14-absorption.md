@@ -7,7 +7,7 @@ featured_image: '/images/projects/blender/featured/absorption.webp'
 published: true
 ---
 
-![](/images/projects/blender/full_size/absorption.jpg)
+![](/images/projects/full_size/absorption.webp)
 
 ---
 

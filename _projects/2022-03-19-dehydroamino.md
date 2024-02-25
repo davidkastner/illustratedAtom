@@ -7,7 +7,7 @@ featured_image: '/images/projects/blender/featured/dehydroaminos.webp'
 published: true
 ---
 
-![](/images/projects/blender/full_size/dehydroaminos.png)
+![](/images/projects/full_size/dehydroaminos.webp)
 
 ---
 

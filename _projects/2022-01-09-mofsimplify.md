@@ -7,7 +7,7 @@ featured_image: '/images/projects/blender/featured/mofsimplify.webp'
 published: true
 ---
 
-![](/images/projects/blender/full_size/mofsimplify.png)
+![](/images/projects/full_size/mofsimplify.webp)
 
 ---
 

@@ -7,7 +7,7 @@ featured_image: '/images/projects/blender/featured/cancercell.webp'
 published: true
 ---
 
-![](/images/projects/blender/full_size/cancercell.png)
+![](/images/projects/full_size/cancercell.webp)
 
 ---
 

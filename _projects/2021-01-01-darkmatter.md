@@ -7,7 +7,7 @@ featured_image: '/images/projects/blender/featured/darkmatter.webp'
 published: true
 ---
 
-![](/images/projects/blender/full_size/darkmatter.png)
+![](/images/projects/full_size/darkmatter.webp)
 
 ---
 

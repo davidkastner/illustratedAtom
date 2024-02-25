@@ -7,7 +7,7 @@ featured_image: '/images/projects/blender/featured/sculpture.webp'
 published: true
 ---
 
-![](/images/projects/blender/full_size/sculpture.png)
+![](/images/projects/full_size/sculpture.webp)
 
 ---
 
