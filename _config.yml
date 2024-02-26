@@ -37,6 +37,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+    -
+    scope:
+      path: "/classic"
+      type: "projects"
+    values:
+      layout: "project"
 
 markdown: kramdown
 
