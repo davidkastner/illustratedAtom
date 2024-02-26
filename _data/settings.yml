@@ -10,8 +10,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Science'
       url: '/'
+    - title: 'Classical'
+      url: '/classical'
     - title: 'About Me'
       url: '/about'
     - title: 'Contact'
