@@ -3,11 +3,11 @@ title: 'Darktrails'
 subtitle: 'Abstract Protein Sculpture'
 date: 2021-02-10 00:00:00
 description: Blender Render
-featured_image: '/images/projects/featured/darktrails.webp'
+featured_image: '/images/projects/science/featured/darktrails.webp'
 published: true
 ---
 
-![](/images/projects/full_size/darktrails.webp)
+![](/images/projects/science/full_size/darktrails.webp)
 
 ---
 

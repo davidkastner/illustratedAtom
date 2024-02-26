@@ -12,6 +12,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  classic:
+    permalink: /classic/:slug
+    output: true
 
 defaults:
   -
@@ -37,8 +40,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
-    -
-
+  -
+    scope:
+      path: ""
+      type: "classic"
+    values:
+      layout: "project"
 
 markdown: kramdown
 

@@ -3,11 +3,11 @@ title: 'Single Cell RNA Seq'
 subtitle: 'Cover submission to Cancer Cell'
 date: 2020-12-24 00:00:00
 description: Blender Render
-featured_image: '/images/projects/featured/cancercell.webp'
+featured_image: '/images/projects/science/featured/cancercell.webp'
 published: true
 ---
 
-![](/images/projects/full_size/cancercell.webp)
+![](/images/projects/science/full_size/cancercell.webp)
 
 ---
 

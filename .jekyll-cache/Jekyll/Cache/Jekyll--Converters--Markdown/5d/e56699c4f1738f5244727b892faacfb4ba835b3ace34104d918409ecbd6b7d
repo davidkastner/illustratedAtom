@@ -1,0 +1,14 @@
+I"u<video style="width:100vh; height:100vh;" controls="" loop="" autoplay="">
+    <source src="/images/projects/science/full_size/stoneknot.mp4" type="video/mp4" />
+</video>
+
+<hr />
+
+<h3 id="project-information">Project Information</h3>
+
+<p><strong>Software:</strong> Blender v2.91.0</p>
+
+<p><strong>Type:</strong> Animation</p>
+
+<p><strong>Render Engine:</strong> Cycles</p>
+:ET

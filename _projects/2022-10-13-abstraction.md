@@ -4,13 +4,13 @@ subtitle: 'Animation of the Hydrogen Atom Abstraction'
 icon: 'fas fa-play fa-3x'
 date: 2022-10-13 00:00:00
 description: Blender Animation
-featured_image: '/images/projects/featured/abstraction.webp'
+featured_image: '/images/projects/science/featured/abstraction.webp'
 published: true
 
 ---
 
 <video controls loop autoplay style="width: 100%; height: auto;">
-    <source src="/images/projects/full_size/abstraction.mp4" type="video/mp4">
+    <source src="/images/projects/science/full_size/abstraction.mp4" type="video/mp4">
 </video>
 
 ---

@@ -29,8 +29,11 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (2.1.0)
       sassc (> 2.0.1, < 3.0)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.3.1)
@@ -56,6 +59,7 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
 
 PLATFORMS
   x86_64-darwin-21
@@ -63,6 +67,9 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.2)
+  jekyll-paginate
+  jekyll-sitemap
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.3.4

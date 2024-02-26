@@ -3,11 +3,11 @@ title: 'Dehydroaminos'
 subtitle: 'Published cover art at Chemical Science'
 date: 2022-03-19 01:00:00
 description: Blender Render
-featured_image: '/images/projects/featured/dehydroaminos.webp'
+featured_image: '/images/projects/science/featured/dehydroaminos.webp'
 published: true
 ---
 
-![](/images/projects/full_size/dehydroaminos.webp)
+![](/images/projects/science/full_size/dehydroaminos.webp)
 
 ---
 

@@ -3,11 +3,11 @@ title: 'MOFSimplify'
 subtitle: 'Dark and light modes of a MOF snapshot'
 date: 2021-01-09 01:00:00
 description: Blender Render
-featured_image: '/images/projects/featured/mofsimplify.webp'
+featured_image: '/images/projects/science/featured/mofsimplify.webp'
 published: true
 ---
 
-![](/images/projects/full_size/mofsimplify.webp)
+![](/images/projects/science/full_size/mofsimplify.webp)
 
 ---
 

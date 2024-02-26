@@ -3,11 +3,11 @@ title: 'Darkmatter'
 subtitle: 'Particle creature with growing tentacles'
 date: 2021-01-01 00:00:00
 description: Blender Render
-featured_image: '/images/projects/featured/darkmatter.webp'
+featured_image: '/images/projects/science/featured/darkmatter.webp'
 published: true
 ---
 
-![](/images/projects/full_size/darkmatter.webp)
+![](/images/projects/science/full_size/darkmatter.webp)
 
 ---
 
