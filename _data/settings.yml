@@ -10,9 +10,9 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Scientific'
+    - title: 'Scientific Artwork'
       url: '/'
-    - title: 'Classical'
+    - title: 'Classical Artwork'
       url: '/classic'
     - title: 'About Me'
       url: '/about'

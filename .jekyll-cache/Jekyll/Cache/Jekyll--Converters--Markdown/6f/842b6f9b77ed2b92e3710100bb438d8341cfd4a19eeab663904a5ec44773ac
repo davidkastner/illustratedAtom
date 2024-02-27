@@ -1,0 +1,36 @@
+I"�<p><img src="/images/projects/full_size/diffusion.webp" alt="" /></p>
+
+<hr />
+
+<h3 id="project-information">Project Information</h3>
+
+<p><strong>Software:</strong> Blender v2.91.0</p>
+
+<p><strong>Type:</strong> Still frame</p>
+
+<p><strong>Render Engine:</strong> Cycles</p>
+
+<hr />
+<p>title: ‘Alien Creature’
+subtitle: ‘Organic Texture and Movement Study’
+icon: ‘fas fa-play fa-3x’
+date: 2020-06-06 00:00:00
+description: Blender Render
+featured_image: ‘/images/projects/science/featured/facehugger.webp’
+published: true
+—</p>
+
+<video style="width:100vh;" controls="" loop="" autoplay="">
+    <source src="/images/projects/science/full_size/facehugger.mp4" type="video/mp4" />
+</video>
+
+<hr />
+
+<h3 id="project-information-1">Project Information</h3>
+
+<p><strong>Software:</strong> Blender v2.82</p>
+
+<p><strong>Type:</strong> Animation</p>
+
+<p><strong>Render Engine:</strong> Cycles</p>
+:ET
