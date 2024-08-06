@@ -7,7 +7,7 @@ featured_image: '/images/projects/science/featured/diffusion.webp'
 published: true
 ---
 
-![](/images/projects/full_size/diffusion.webp)
+![](/images/projects/full_size/science/diffusion.webp)
 
 ---
 
