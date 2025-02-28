@@ -1,7 +1,7 @@
 ---
-title: 'Statistically coupling analysis'
+title: 'Statistical coupling analysis'
 subtitle: 'CSA principal components'
-date: 2024-02-28 00:00:00
+date: 2023-12-14 00:00:00
 description: Blender Render
 featured_image: '/images/projects/science/featured/csa.webp'
 published: true

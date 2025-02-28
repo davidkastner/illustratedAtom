@@ -1,7 +1,7 @@
 ---
 title: 'Diffusion Landscape'
 subtitle: 'Vizualization of a diffusion model for predicting transition states'
-date: 2023-12-15 00:00:00
+date: 2023-12-13 00:00:00
 description: Blender Render
 featured_image: '/images/projects/science/featured/diffusionwide.webp'
 published: true
